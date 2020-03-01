@@ -1,0 +1,30 @@
+.page {
+    background-color: gray;
+
+}
+
+.page__container {
+    max-width: 1167px;
+    margin: 0 auto;
+}
+
+.page__first-screen {
+    background: url("/docs/images/bg-header.jpg") no-repeat center/cover;
+    height: 100vh;
+}
+
+.page__content {
+    background: #FFFFFF;
+    box-shadow: 0 2px 24px rgba(0, 0, 0, 0.14), 0 8px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin: 0 20px;
+    padding: 40px 0 122px;
+}
+
+.page__content-mame {
+    font-weight: 300;
+    font-size: 41px;
+    line-height: 48px;
+    padding-top: 41px;
+    padding-left: 121px;
+}

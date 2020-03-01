@@ -1,0 +1,17 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    margin-right: 15px;
+}
+
+.logo__text {
+    color: white;
+    padding-left: 7px;
+}
+
+.heart {
+    width: 34px;
+}
