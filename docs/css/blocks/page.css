@@ -9,7 +9,7 @@
 }
 
 .page__first-screen {
-    background: url("/docs/images/bg-header.jpg") no-repeat center/cover;
+    background: purple url("images/bg-header.jpg") no-repeat center/cover;
     height: 100vh;
 }
 

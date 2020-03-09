@@ -1,0 +1,17 @@
+.page__inputs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input__regular {
+    width: 100%;
+    font-size: 14px;
+    line-height: 16px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #999999;
+}
+
+.inputs {
+    width: 25%;
+}
