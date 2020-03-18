@@ -12,6 +12,21 @@
     border-bottom: 1px solid #999999;
 }
 
-.inputs {
+.input {
     width: 25%;
+    display: flex;
+    justify-content: space-between;
 }
+
+.page__inputs-icons {
+    display: inline-flex;
+    justify-content: normal;
+}
+
+.input__second {
+    display: inline-flex;
+    position: relative;
+    padding-top: 60px;
+    padding-right: 80px;
+}
+

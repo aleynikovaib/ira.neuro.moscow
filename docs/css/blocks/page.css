@@ -9,8 +9,8 @@
 }
 
 .page__first-screen {
-    background: purple url("images/bg-header.jpg") no-repeat center/cover;
-    height: 100vh;
+    background: purple url("images/bg-header.png") no-repeat center/cover;
+    width: 100vh;
 }
 
 .page__content {
